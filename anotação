@@ -1,1 +1,5 @@
+anotação
+
+
+ao usar o metaexploit, eu passei por um problema até que de boa resolver que foi o de backdoor no ftp, caso o comando set payload cmd/unix/interact não vá, mude o target 1 com set target 1, assim o comando funcinara normalmente, para consulta em caso de dúvidas você pode ultiliza o - h para obiter mais informações ou o info para saber como essa vunerabilidades funcinam, o comando shou mostre as informações e set seleciana oque você que colocar
 
